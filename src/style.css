@@ -280,7 +280,7 @@ h2{
     justify-content: space-between;
     align-content: center;
     height: 50px;
-    width: 1120px;
+    width: 72.91vw;
     margin-bottom: 35px;
 }
 .cover_btn{
@@ -289,6 +289,7 @@ h2{
     align-items: center;
     width: 440px;
     cursor: pointer;
+
 
 }
 .btn1{
@@ -358,8 +359,8 @@ h2{
 }
 .cover_middle{
     display: flex;
-    height: 400px;
-    width: 1140px;
+    min-height: 55.9vh;
+    width: 74.2vw;
     justify-content: space-between;
     margin-bottom: 20px;
 }
@@ -367,14 +368,14 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 550px;
+    width:  35.8vw;
     background-color: #111111;
     padding-left: 45px;
     border-top-right-radius: 16px 16px;
     border-bottom-right-radius: 16px 16px;
 }
 .cover_midd_text{
-    width: 440px;
+    width: 28.64vw;
     margin-bottom: 0;
     font-size: 1.313em;
 }
@@ -387,8 +388,8 @@ h2{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 62px;
-    width: 1140px;
+    height: 8.6vh;
+    width: 74.2vw;
     border-radius: 16px;
     background: rgba(38, 31, 38, 0.30);
 }
